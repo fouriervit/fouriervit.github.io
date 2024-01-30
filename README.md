@@ -1,3 +1,5 @@
+This is the repository that contains source code for the [Fourier Vision Transformer website](https://fouriervit.github.io/).
+
 # Academic Project Page Template
 This is an academic paper project page template.
 
