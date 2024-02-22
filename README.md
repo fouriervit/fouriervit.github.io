@@ -1,7 +1,7 @@
 ## https://fouriervit.github.io/
 This repository contains the source code for the [Fourier Vision Transformer website](https://fouriervit.github.io/).
 
-The source code of the project will be made available on the website for reproducibility soon.
+﻿The source code of the project will soon be made available on the website for reproducibility.
 
 ---
 
